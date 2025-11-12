@@ -155,7 +155,7 @@ footer{
 }
 @media(max-width: 600px){
     nav h1, span{
-        font-size: 10px;
+        font-size: 5px;
     }
 }
 /* ORDENADO */
